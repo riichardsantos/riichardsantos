@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Richard! 
 
-<!--
-**riichardsantos/riichardsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studying Information Systems at Uniacademia  
+🐍 Currently learning Python  
+💻 Working towards becoming a software developer  
+🚀 Future Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm currently studying Information Systems and learning programming with a focus on Python.
+
+I'm building my knowledge step by step, creating projects and improving my programming skills along the way.
+
+---
+
+## Currently Learning
+
+-  Python
+-  Git & GitHub
+-  Programming fundamentals
+-  Problem solving
+
+---
+
+⭐ Thanks for visiting my profile!
